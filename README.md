@@ -1,17 +1,17 @@
-<!-- Banner -->
-![Aditya Yadav](https://capsule-render.vercel.app/api?type=wave&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aditya%20Yadav&fontSize=40&fontColor=ffffff&animation=fadeIn)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aditya%20Yadav&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <div align="center">
 
-
-Aspiring **Data Analyst** · ML Enthusiast · Python Developer  
-
+Aspiring <b>Data Analyst</b> · ML Enthusiast · Python Developer  
 📍 Mathura, India · 🎓 GLA University  
-🌐 [Portfolio](https://ay-systems-iota.vercel.app/) · 🔗 [LinkedIn](https://linkedin.com/in/aditya-yadav-570846289)
+🌐 <a href="https://ay-systems-iota.vercel.app/">Portfolio</a> · 🔗 <a href="https://linkedin.com/in/aditya-yadav-570846289">LinkedIn</a>
 
 </div>
 
 ---
+
 
 
 ### Hi, I'm Aditya Yadav 👋  

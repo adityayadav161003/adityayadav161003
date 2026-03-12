@@ -3,7 +3,6 @@
 
 <div align="center">
 
-# 👋 Aditya Yadav  
 
 Aspiring **Data Analyst** · ML Enthusiast · Python Developer  
 

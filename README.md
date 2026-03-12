@@ -15,6 +15,10 @@ I enjoy exploring datasets, extracting insights, and creating visualizations tha
 
 ## 🛠 Skills
 
+
+
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityayadav161003&show_icons=true&theme=radical)
+
 Python  
 Pandas  
 Machine Learning  

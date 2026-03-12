@@ -1,6 +1,20 @@
 <!-- Banner -->
 ![Aditya Yadav](https://capsule-render.vercel.app/api?type=wave&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aditya%20Yadav&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
+<div align="center">
+
+# 👋 Aditya Yadav  
+
+Aspiring **Data Analyst** · ML Enthusiast · Python Developer  
+
+📍 Mathura, India · 🎓 GLA University  
+🌐 [Portfolio](https://ay-systems-iota.vercel.app/) · 🔗 [LinkedIn](https://linkedin.com/in/aditya-yadav-570846289)
+
+</div>
+
+---
+
+
 ### Hi, I'm Aditya Yadav 👋  
 
 🎓 Computer Science student at **GLA University**  

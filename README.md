@@ -17,9 +17,7 @@ I enjoy exploring datasets, extracting insights, and creating visualizations tha
 
 
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityayadav161003&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityayadav161003&layout=compact&theme=radical)
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityayadav161003&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityayadav161003&layout=compact&theme=radical)
 
 Python  
 Pandas  

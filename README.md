@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Aditya Yadav 👋
 
-<!--
-**adityayadav161003/adityayadav161003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at GLA University  
+📊 Aspiring Data Analyst | Machine Learning Enthusiast  
+🐍 Python Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am passionate about **data analysis, machine learning, and building intelligent systems**.  
+I enjoy exploring datasets, extracting insights, and creating visualizations that tell meaningful stories with data.
+
+---
+
+## 🛠 Skills
+
+Python  
+Pandas  
+Machine Learning  
+Data Analysis  
+Power BI  
+Data Visualization  
+Linux  
+
+---
+
+## 📊 Featured Projects
+
+### Netflix Data Analysis
+Exploratory data analysis of Netflix dataset to understand global content trends.
+
+### IPL Cricket Data Analysis
+Sports analytics project analyzing player performance and team statistics.
+
+### AutoML Engine
+Automated machine learning pipeline for structured datasets.
+
+---
+
+## 🌐 Connect With Me
+
+LinkedIn  
+GitHub  
+Portfolio Website (Coming Soon)

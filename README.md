@@ -22,25 +22,25 @@
 
 ---
 
-## `> whoami`
+### 👤 Who I Am
 
 ```python
 engineer = {
-    "name"       : "Aditya Yadav",
-    "location"   : "Mathura, India",
-    "education"  : "B.Tech CSE — GLA University (2027)",
-    "role"       : "AI Engineer — systems at the edge of software and intelligence",
-    "building"   : "AY Systems — Agent-based AutoML Pipeline",
-    "exploring"  : ["LLM reasoning", "RAG pipelines", "MLOps"],
-    "reading"    : "Designing ML Systems — Chip Huyen",
-    "open_to"    : "AI/ML Engineering Internships · 2026",
-    "status"     : "Actively Building"
+    "name"      : "Aditya Yadav",
+    "location"  : "Mathura, India",
+    "education" : "B.Tech CSE — GLA University (2027)",
+    "role"      : "AI Engineer — systems at the edge of software and intelligence",
+    "building"  : "AY Systems — Agent-based AutoML Pipeline",
+    "exploring" : ["LLM reasoning", "RAG pipelines", "MLOps"],
+    "reading"   : "Designing ML Systems — Chip Huyen",
+    "open_to"   : "AI/ML Engineering Internships · 2026",
+    "status"    : "Actively Building"
 }
 ```
 
 ---
 
-## `> cat philosophy.txt`
+### 🧠 How I Build
 
 **Systems, not scripts** — Every project has a defined pipeline, config-driven stages, and a clear evaluation harness. Code someone else can run tomorrow is worth more than code that only works on my machine today.
 
@@ -50,11 +50,11 @@ engineer = {
 
 ---
 
-## `> ls projects/`
+### 🚀 Featured Projects
 
 <br/>
 
-**🔵 `ay-systems/` — Agent-Based AutoML Pipeline** &nbsp;&nbsp; `Flagship · End-to-end ML`
+**🔵 AY Systems — Agent-Based AutoML Pipeline** &nbsp;&nbsp; `Flagship · End-to-end ML`
 
 A modular AutoML pipeline built around an orchestrator and specialized agents for preprocessing, feature engineering, training, evaluation, and export. Config-driven stages. Repeatable experiments. Deployment-ready artifacts.
 
@@ -71,7 +71,7 @@ Data → Preprocess → Engineer → Train → Evaluate → Export
 
 <br/>
 
-**🟣 `gesturewave-ai/` — Real-Time Computer Vision System** &nbsp;&nbsp; `CV · Touch-free interaction`
+**🟣 GestureWave AI — Real-Time Computer Vision System** &nbsp;&nbsp; `CV · Touch-free interaction`
 
 Real-time hand gesture recognition using OpenCV and MediaPipe. Runs at 20–25 FPS. Tracks landmark positions, classifies gestures, and maps them to actions. Designed around latency and stability, not just accuracy.
 
@@ -83,7 +83,7 @@ Real-time hand gesture recognition using OpenCV and MediaPipe. Runs at 20–25 F
 
 <br/>
 
-**🟡 `automl-engine/` — Tabular ML Automation Tool** &nbsp;&nbsp; `ML Tooling · Faster experiments`
+**🟡 AutoML Engine — Tabular ML Automation Tool** &nbsp;&nbsp; `ML Tooling · Faster experiments`
 
 Standardizes preprocessing, compares multiple models, and surfaces metrics in a consistent format. Reduced repetitive setup work by 15% in my own experiments. Built to make iteration repeatable and easy to extend.
 
@@ -94,9 +94,9 @@ Standardizes preprocessing, compares multiple models, and surfaces metrics in a 
 
 <br/>
 
-**📊 `netflix-analytics/` — Content Intelligence EDA** &nbsp;&nbsp; `Data Analysis · EDA`
+**📊 Netflix Content Intelligence — EDA & Analytics** &nbsp;&nbsp; `Data Analysis · EDA`
 
-End-to-end exploratory analysis of Netflix's global content library. Distribution patterns, top content-producing countries, genre trends, and content growth over time. Real insight extraction.
+End-to-end exploratory analysis of Netflix's global content library. Distribution patterns, top content-producing countries, genre trends, and content growth over time.
 
 ![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=00d4ff)
 ![Pandas](https://img.shields.io/badge/Pandas-0a0a0a?style=flat-square&logo=pandas&logoColor=8b5cf6)
@@ -107,9 +107,9 @@ End-to-end exploratory analysis of Netflix's global content library. Distributio
 
 <br/>
 
-**🏏 `ipl-analytics/` — Cricket Performance Analytics** &nbsp;&nbsp; `Sports Analytics · Data`
+**🏏 IPL Cricket Performance Analytics** &nbsp;&nbsp; `Sports Analytics · Data`
 
-Deep analysis of IPL datasets — player performance metrics, top run scorers, wicket takers, team win statistics, and toss impact analysis. End-to-end data wrangling with real-world sports data.
+Deep analysis of IPL datasets — player performance metrics, top run scorers, wicket takers, team win statistics, and toss impact analysis.
 
 ![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=00d4ff)
 ![Pandas](https://img.shields.io/badge/Pandas-0a0a0a?style=flat-square&logo=pandas&logoColor=8b5cf6)
@@ -119,7 +119,7 @@ Deep analysis of IPL datasets — player performance metrics, top run scorers, w
 
 ---
 
-## `> cat stack.txt`
+### 🛠 Tech Stack
 
 **⚙️ Core Intelligence**
 
@@ -141,13 +141,13 @@ Deep analysis of IPL datasets — player performance metrics, top run scorers, w
 
 `SQL` `EDA` `Jupyter` `Matplotlib` `Seaborn` `Excel`
 
-**🔌 Currently Wiring In**
+**🔌 Currently Learning**
 
 `RAG` `Vector Databases` `MLflow` `Docker` `FastAPI` `HuggingFace` `LangChain`
 
 ---
 
-## `> cat metrics.log`
+### 📈 Key Metrics
 
 | Metric | Value | Context |
 |--------|-------|---------|
@@ -158,7 +158,7 @@ Deep analysis of IPL datasets — player performance metrics, top run scorers, w
 
 ---
 
-## `> cat experience.log`
+### 💼 Experience
 
 **ML Engineering Intern** · Intrainz Innovation · *Summer 2024*
 
@@ -177,7 +177,7 @@ Deep analysis of IPL datasets — player performance metrics, top run scorers, w
 
 ---
 
-## `> github stats --verbose`
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=adityayadav161003&show_icons=true&theme=dark&bg_color=0d1117&border_color=00d4ff30&icon_color=00d4ff&title_color=ffffff&text_color=888888" />
@@ -191,7 +191,7 @@ Deep analysis of IPL datasets — player performance metrics, top run scorers, w
 
 ---
 
-## `> connect --all`
+### 📬 Get In Touch
 
 | Platform | Link | Use for |
 |----------|------|---------|

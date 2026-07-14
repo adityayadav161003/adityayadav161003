@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:0a1628,50:0f2027,75:1a3a4a,100:000000&height=220&section=header&text=ADITYA%20YADAV&fontSize=56&fontColor=ffffff&fontAlignY=48&desc=Neural%20Architect%20%7C%20Privacy-First%20AI%20Engineer&descSize=16&descAlignY=72&descFontColor=00d4ff&animation=fadeIn&stroke=00d4ff&strokeWidth=1" />
 </p>
@@ -9,16 +8,16 @@
 
 <p align="center">
   <a href="https://ay-systems-iota.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-ay--systems-00d4ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" />
+    <img src="https://img.shields.io/badge/Portfolio-ay--systems-00d4ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" />
   </a>
   <a href="https://linkedin.com/in/aditya-yadav-570846289">
-    <img src="https://img.shields.io/badge/🔗_LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" />
   </a>
   <a href="mailto:adity6946@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-Hire%20Me-f59e0b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" />
+    <img src="https://img.shields.io/badge/Email-Hire%20Me-f59e0b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" />
   </a>
   <a href="https://github.com/adityayadav161003">
-    <img src="https://img.shields.io/badge/🐙_GitHub-Code-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" />
+    <img src="https://img.shields.io/badge/GitHub-Code-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" />
   </a>
 </p>
 
@@ -28,7 +27,7 @@
 
 ---
 
-## 🧬 The Architecture
+## The Architecture
 
 ```python
 class AdityaYadav:
@@ -36,14 +35,14 @@ class AdityaYadav:
     A neural architect building privacy-first intelligent systems.
     Not a script writer. A system designer.
     """
-    
+
     def __init__(self):
         self.location = "Mathura, India"
         self.education = "B.Tech CSE — GLA University (2027)"
         self.cgpa = 7.0
         self.status = "Actively Building"
         self.open_to = "AI/ML Engineering Internships · 2026"
-        
+
     @property
     def core_stack(self) -> dict:
         return {
@@ -54,7 +53,7 @@ class AdityaYadav:
             "systems": ["Pipeline Design", "Config-Driven Workflows", "Orchestration"],
             "web": ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"]
         }
-    
+
     @property
     def philosophy(self) -> list[str]:
         return [
@@ -62,45 +61,45 @@ class AdityaYadav:
             "Metrics or it didn't happen — baseline, compare, iterate",
             "Ship. Measure. Iterate. — v1 deployed > v0 perfect"
         ]
-    
+
     def currently_wiring(self) -> list[str]:
         return ["RAG", "Vector Databases", "MLflow", "Docker", "FastAPI", "Multi-Agent Systems"]
-    
+
     def read(self) -> str:
         return "Designing ML Systems — Chip Huyen"
 ```
 
 ---
 
-## 🧠 Neural Network — My Project Graph
+## Neural Network — My Project Graph
 
 ```
-                    ┌─────────────────┐
-                    │   INPUT LAYER   │
-                    │  Raw Ideas/Data │
-                    └────────┬────────┘
-                             │
-              ┌──────────────┼──────────────┐
-              │              │              │
-              ▼              ▼              ▼
-    ┌─────────────────┐ ┌─────────────────┐ ┌─────────────────┐
-    │  HIDDEN LAYER 1 │ │  HIDDEN LAYER 2 │ │  HIDDEN LAYER 3 │
-    │   Orvika AI     │ │  GestureWave AI  │ │   AY Systems    │
-    │  Privacy-First  │ │  Real-Time CV    │ │  Agent AutoML   │
-    │   RAG System    │ │  Gesture Control │ │   Pipeline      │
-    │  [FLAGSHIP]     │ │  [20-25 FPS]     │ │  [FLAGSHIP]     │
-    └────────┬────────┘ └────────┬────────┘ └────────┬────────┘
-             │                   │                   │
-             └───────────────────┼───────────────────┘
-                                 │
-                    ┌────────────┴────────────┐
-                    │      OUTPUT LAYER       │
-                    │   Production-Ready AI   │
-                    │   That Respects Privacy │
-                    └─────────────────────────┘
+                    +-----------------+
+                    |   INPUT LAYER   |
+                    |  Raw Ideas/Data |
+                    +--------+--------+
+                             |
+              +--------------+--------------+
+              |              |              |
+              v              v              v
+    +-----------------+ +-----------------+ +-----------------+
+    |  HIDDEN LAYER 1 | |  HIDDEN LAYER 2 | |  HIDDEN LAYER 3 |
+    |   Orvika AI     | |  GestureWave AI  | |   AY Systems    |
+    |  Privacy-First  | |  Real-Time CV    | |  Agent AutoML   |
+    |   RAG System    | |  Gesture Control | |   Pipeline      |
+    |  [FLAGSHIP]     | |  [20-25 FPS]     | |  [FLAGSHIP]     |
+    +--------+--------+ +--------+--------+ +--------+--------+
+             |                   |                   |
+             +-------------------+---------+---------+
+                                       |
+                    +------------------v------------------+
+                    |      OUTPUT LAYER                   |
+                    |   Production-Ready AI               |
+                    |   That Respects Privacy             |
+                    +-------------------------------------+
 ```
 
-### 🔵 Orvika AI — Privacy-First Research Assistant `FLAGSHIP`
+### Orvika AI — Privacy-First Research Assistant `FLAGSHIP`
 > *"Your documents never leave your machine. Your intelligence does."*
 
 - **Architecture:** Retrieval-Augmented Generation (RAG) with local LLM reasoning + cloud research agents
@@ -109,9 +108,9 @@ class AdityaYadav:
 - **Output:** Grounded, citation-backed reports for researchers handling sensitive data
 - **Stack:** `Python` `LangChain` `FAISS` `LLMs` `NLP` `Vector DBs` `Tauri` `React`
 
-[![View Repo](https://img.shields.io/badge/🔒_Private_Repo-Demo_Available-00d4ff?style=flat-square&labelColor=0f1117)](https://github.com/adityayadav161003)
+[![View Repo](https://img.shields.io/badge/Private_Repo-Demo_Available-00d4ff?style=flat-square&labelColor=0f1117)](https://github.com/adityayadav161003)
 
-### 🟣 GestureWave AI — Touch-Free Gesture Control
+### GestureWave AI — Touch-Free Gesture Control
 > *"Latency is a bug. Stability is a feature."*
 
 - Real-time hand tracking at **20–25 FPS** using MediaPipe + OpenCV
@@ -119,9 +118,9 @@ class AdityaYadav:
 - Full CV pipeline: landmark detection → gesture mapping → system action
 - **Stack:** `Python` `OpenCV` `MediaPipe` `Computer Vision`
 
-[![View Repo](https://img.shields.io/badge/🔒_Private_Repo-Demo_Available-8b5cf6?style=flat-square&labelColor=0f1117)](https://github.com/adityayadav161003/GestureWave-AI)
+[![View Repo](https://img.shields.io/badge/Private_Repo-Demo_Available-8b5cf6?style=flat-square&labelColor=0f1117)](https://github.com/adityayadav161003/GestureWave-AI)
 
-### 🟡 AY Systems — Agent-Based AutoML Pipeline `FLAGSHIP`
+### AY Systems — Agent-Based AutoML Pipeline `FLAGSHIP`
 > *"Data → Preprocess → Engineer → Train → Evaluate → Export. Repeatable. Config-driven. Deployable."*
 
 - Modular orchestrator with specialized agents for each ML stage
@@ -129,41 +128,41 @@ class AdityaYadav:
 - Reduced repetitive setup by **15%** through automation
 - **Stack:** `Python` `scikit-learn` `Pandas` `Streamlit`
 
-[![View Repo](https://img.shields.io/badge/📂_View_Repo-→-f59e0b?style=flat-square&labelColor=0f1117)](https://github.com/adityayadav161003/ay-systems)
+[![View Repo](https://img.shields.io/badge/View_Repo-→-f59e0b?style=flat-square&labelColor=0f1117)](https://github.com/adityayadav161003/ay-systems)
 
-### 📊 Netflix Content Intelligence — EDA & Analytics
+### Netflix Content Intelligence — EDA & Analytics
 - End-to-end exploratory analysis of Netflix's global content library
 - Distribution patterns, genre trends, content growth over time
 - **Stack:** `Python` `Pandas` `Seaborn` `Matplotlib` `Jupyter`
 
-[![View Repo](https://img.shields.io/badge/📂_View_Repo-→-00d4ff?style=flat-square&labelColor=0f1117)](https://github.com/adityayadav161003/Netflix-Data-Analysis)
+[![View Repo](https://img.shields.io/badge/View_Repo-→-00d4ff?style=flat-square&labelColor=0f1117)](https://github.com/adityayadav161003/Netflix-Data-Analysis)
 
-### 🏏 IPL Cricket Performance Analytics
+### IPL Cricket Performance Analytics
 - Player metrics, team statistics, toss impact analysis
 - Raw data → cleaning → structured insights
 - **Stack:** `Python` `Pandas` `NumPy` `Matplotlib`
 
-[![View Repo](https://img.shields.io/badge/📂_View_Repo-→-4ade80?style=flat-square&labelColor=0f1117)](https://github.com/adityayadav161003/IPL-Data-Analytics)
+[![View Repo](https://img.shields.io/badge/View_Repo-→-4ade80?style=flat-square&labelColor=0f1117)](https://github.com/adityayadav161003/IPL-Data-Analytics)
 
 ---
 
-## ⚡ Performance Metrics — The Evaluation Harness
+## Performance Metrics — The Evaluation Harness
 
 | Metric | Value | Context | Benchmark |
 |--------|-------|---------|-----------|
-| 🎯 **Model Accuracy** | **85–90%** | Fraud classification (Intrainz internship) | Baseline: ~75% |
-| ⚡ **Real-Time FPS** | **20–25 FPS** | GestureWave AI recognition loop | Target: >15 FPS |
-| 🔁 **Iteration Speed** | **+15% faster** | Automated preprocessing pipeline | Manual setup baseline |
-| 📦 **Live Projects** | **5+** | ML, vision, data, product UI | — |
-| 🧠 **Specializations** | **4** | GenAI/RAG, ML, CV, Data | — |
+| Model Accuracy | **85–90%** | Fraud classification (Intrainz internship) | Baseline: ~75% |
+| Real-Time FPS | **20–25 FPS** | GestureWave AI recognition loop | Target: >15 FPS |
+| Iteration Speed | **+15% faster** | Automated preprocessing pipeline | Manual setup baseline |
+| Live Projects | **5+** | ML, vision, data, product UI | — |
+| Specializations | **4** | GenAI/RAG, ML, CV, Data | — |
 
 ---
 
-## 🏗 Experience — The Training Loop
+## Experience — The Training Loop
 
 ```python
 for epoch in range(2022, 2027):
-    
+
     if epoch == 2024:
         # Summer Internship — Intrainz Innovation
         experience = {
@@ -178,7 +177,7 @@ for epoch in range(2022, 2027):
             ]
         }
         skills.update(["TensorFlow", "PyTorch", "Feature Engineering", "Metric Tracking"])
-    
+
     elif epoch >= 2024:
         # Independent Builder Mode
         experience = {
@@ -187,52 +186,52 @@ for epoch in range(2022, 2027):
             "focus": "Production-grade RAG, AutoML, and CV systems"
         }
         skills.update(["LangChain", "FAISS", "RAG", "Vector DBs", "Agentic AI"])
-    
+
     # Leadership & Community
     leadership = {
         "Synergy Coordinator": "Entrepreneurship Cell, GLA University",
         "General Secretary": "CSED Club, GLA University"
     }
-    
+
     # Backpropagate learnings
     optimize(learning_rate=0.01, momentum=0.9)
 ```
 
 ---
 
-## 🛠 Tech Stack — The Feature Engineering Layer
+## Tech Stack — The Feature Engineering Layer
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                    ⚙️ CORE INTELLIGENCE                          │
-│  Python  ·  scikit-learn  ·  NumPy  ·  Pandas  ·  LLMs         │
-│  Generative AI  ·  AutoML  ·  Feature Engineering              │
-│  Model Evaluation  ·  Neural Networks  ·  Deep Learning          │
-├─────────────────────────────────────────────────────────────────┤
-│                    👁 PERCEPTION & VISION                       │
-│  OpenCV  ·  MediaPipe  ·  Real-Time Pipelines                  │
-│  Gesture Recognition  ·  Computer Vision                        │
-├─────────────────────────────────────────────────────────────────┤
-│                    🏗 SYSTEMS ARCHITECTURE                      │
-│  Pipeline Design  ·  Config-Driven Workflows                   │
-│  Experiment Tracking  ·  Artifact Management  ·  Orchestration   │
-├─────────────────────────────────────────────────────────────────┤
-│                    🌐 WEB & DEPLOYMENT                          │
-│  Next.js  ·  TypeScript  ·  Tailwind CSS  ·  Framer Motion     │
-│  Git  ·  GitHub  ·  Vercel  ·  Tauri  ·  React                  │
-├─────────────────────────────────────────────────────────────────┤
-│                    📊 DATA & ANALYSIS                           │
-│  SQL  ·  EDA  ·  Jupyter  ·  Matplotlib  ·  Seaborn  ·  Excel │
-├─────────────────────────────────────────────────────────────────┤
-│                    🔌 CURRENTLY WIRING IN →                    │
-│  RAG  ·  Vector Databases  ·  MLflow  ·  Docker  ·  FastAPI    │
-│  HuggingFace  ·  LangChain  ·  Ollama  ·  Multi-Agent Systems  │
-└─────────────────────────────────────────────────────────────────┘
++-----------------------------------------------------------------+
+|                    CORE INTELLIGENCE                             |
+|  Python  ·  scikit-learn  ·  NumPy  ·  Pandas  ·  LLMs         |
+|  Generative AI  ·  AutoML  ·  Feature Engineering                |
+|  Model Evaluation  ·  Neural Networks  ·  Deep Learning          |
++-----------------------------------------------------------------+
+|                    PERCEPTION & VISION                           |
+|  OpenCV  ·  MediaPipe  ·  Real-Time Pipelines                  |
+|  Gesture Recognition  ·  Computer Vision                        |
++-----------------------------------------------------------------+
+|                    SYSTEMS ARCHITECTURE                          |
+|  Pipeline Design  ·  Config-Driven Workflows                     |
+|  Experiment Tracking  ·  Artifact Management  ·  Orchestration   |
++-----------------------------------------------------------------+
+|                    WEB & DEPLOYMENT                             |
+|  Next.js  ·  TypeScript  ·  Tailwind CSS  ·  Framer Motion     |
+|  Git  ·  GitHub  ·  Vercel  ·  Tauri  ·  React                  |
++-----------------------------------------------------------------+
+|                    DATA & ANALYSIS                               |
+|  SQL  ·  EDA  ·  Jupyter  ·  Matplotlib  ·  Seaborn  ·  Excel   |
++-----------------------------------------------------------------+
+|                    CURRENTLY WIRING IN ->                        |
+|  RAG  ·  Vector Databases  ·  MLflow  ·  Docker  ·  FastAPI    |
+|  HuggingFace  ·  LangChain  ·  Ollama  ·  Multi-Agent Systems   |
++-----------------------------------------------------------------+
 ```
 
 ---
 
-## 📈 GitHub Stats — The Training Visualization
+## GitHub Stats — The Training Visualization
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=adityayadav161003&show_icons=true&theme=dark&bg_color=0d1117&border_color=00d4ff30&icon_color=00d4ff&title_color=ffffff&text_color=888888&ring=00d4ff&fire=f59e0b" />
@@ -245,12 +244,12 @@ for epoch in range(2022, 2027):
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityayadav161003&custom_title=Aditya's%20Neural%20Activity%20Graph&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area_color=00D4FF30&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityayadav161003&custom_title=Aditya%27s%20Neural%20Activity%20Graph&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area_color=00D4FF30&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
 
-## 🏆 Certifications — The Validation Set
+## Certifications — The Validation Set
 
 | Credential | Provider | Year |
 |------------|----------|------|
@@ -261,7 +260,7 @@ for epoch in range(2022, 2027):
 
 ---
 
-## 📬 Get In Touch — The Inference API
+## Get In Touch — The Inference API
 
 ```
 POST /contact
@@ -278,14 +277,14 @@ Content-Type: application/json
 
 | Endpoint | URL | Use Case |
 |----------|-----|----------|
-| 🌐 **Portfolio** | [ay-systems-iota.vercel.app](https://ay-systems-iota.vercel.app/) | Full work, case studies, lab experiments |
-| 💼 **LinkedIn** | [aditya-yadav-570846289](https://linkedin.com/in/aditya-yadav-570846289) | Professional connect |
-| 🐙 **GitHub** | [@adityayadav161003](https://github.com/adityayadav161003) | Code and repos |
-| 📧 **Email** | [adity6946@gmail.com](mailto:adity6946@gmail.com) | Fastest response — include role + timeline |
+| Portfolio | [ay-systems-iota.vercel.app](https://ay-systems-iota.vercel.app/) | Full work, case studies, lab experiments |
+| LinkedIn | [aditya-yadav-570846289](https://linkedin.com/in/aditya-yadav-570846289) | Professional connect |
+| GitHub | [@adityayadav161003](https://github.com/adityayadav161003) | Code and repos |
+| Email | [adity6946@gmail.com](mailto:adity6946@gmail.com) | Fastest response — include role + timeline |
 
 <p align="center">
   <a href="mailto:adity6946@gmail.com">
-    <img src="https://img.shields.io/badge/🚀_Open_to_AI%2FML_Internships-2026-00d4ff?style=for-the-badge&labelColor=0a0a0a" />
+    <img src="https://img.shields.io/badge/Open_to_AI%2FML_Internships-2026-00d4ff?style=for-the-badge&labelColor=0a0a0a" />
   </a>
 </p>
 
@@ -296,7 +295,6 @@ Content-Type: application/json
 </p>
 
 <p align="center">
-  <sub><strong>© 2026 Aditya Yadav — Neural Architecture v3.0</strong></sub><br/>
+  <sub><strong>2026 Aditya Yadav — Neural Architecture v3.0</strong></sub><br/>
   <sub><em>"Intelligence without evidence is just noise."</em></sub>
 </p>
-```

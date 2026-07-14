@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:0a1628,50:0f2027,75:1a3a4a,100:000000&height=220&section=header&text=ADITYA%20YADAV&fontSize=56&fontColor=ffffff&fontAlignY=48&desc=Neural%20Architect%20%7C%20Privacy-First%20AI%20Engineer&descSize=16&descAlignY=72&descFontColor=00d4ff&animation=fadeIn&stroke=00d4ff&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:0a1628,50:0f2027,75:1a3a4a,100:000000&height=220&section=header&text=ADITYA%20YADAV&fontSize=56&fontColor=ffffff&fontAlignY=48&desc=AI%2FML%20Engineer%20%C2%B7%20Generative%20AI%20Builder&descSize=16&descAlignY=72&descFontColor=00d4ff&animation=fadeIn&stroke=00d4ff&strokeWidth=1" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Building+AI+that+remembers+what+it+read...;...and+forgets+nothing+it+learned.;Privacy+is+not+a+feature.+It%27s+the+foundation." alt="Neural Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=I+build+things+that+think.;Privacy-first+AI+systems+with+real+metrics.;Ship.+Measure.+Iterate." alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -22,17 +22,17 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityayadav161003&label=Neural+Visitors&color=00d4ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=adityayadav161003&label=Profile+Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
-## The Architecture
+## Who I Am
 
 ```python
 class AdityaYadav:
     """
-    A neural architect building privacy-first intelligent systems.
+    AI/ML Engineer building privacy-first intelligent systems.
     Not a script writer. A system designer.
     """
 
@@ -69,11 +69,11 @@ class AdityaYadav:
         return "Designing ML Systems — Chip Huyen"
 ```
 
-> **What is this?** It is a Python class that represents YOU as a system. `__init__` is your identity, `@property` methods are your skills and beliefs, `currently_wiring()` is what you are learning, and `read()` is what you are reading. It is creative README decoration that shows you think in code.
+> **What is this?** This is a Python class that represents my identity as an engineer. `__init__` holds my basic info, `@property` methods organize my skills and beliefs, `currently_wiring()` tracks what I am learning, and `read()` shows what I am reading. It is creative README decoration that reflects how I think — in systems and code.
 
 ---
 
-## Neural Network — My Project Graph
+## My Project Pipeline
 
 ```
                     +-----------------+
@@ -100,6 +100,12 @@ class AdityaYadav:
                     |   That Respects Privacy             |
                     +-------------------------------------+
 ```
+
+> **What is this?** This ASCII neural network diagram maps my projects as layers. Input = ideas, Hidden Layers = my projects (Orvika AI, GestureWave AI, AY Systems), Output = production-ready privacy-first AI. It visualizes how I think about building — every project feeds into a cohesive system.
+
+---
+
+## Featured Projects
 
 ### Orvika AI — Privacy-First Research Assistant `FLAGSHIP`
 > *"Your documents never leave your machine. Your intelligence does."*
@@ -148,7 +154,7 @@ class AdityaYadav:
 
 ---
 
-## Performance Metrics — The Evaluation Harness
+## Performance Metrics
 
 | Metric | Value | Context | Benchmark |
 |--------|-------|---------|-----------|
@@ -160,7 +166,7 @@ class AdityaYadav:
 
 ---
 
-## Experience — The Training Loop
+## Experience Timeline
 
 ```python
 for epoch in range(2022, 2027):
@@ -199,11 +205,11 @@ for epoch in range(2022, 2027):
     optimize(learning_rate=0.01, momentum=0.9)
 ```
 
-> **What is this?** It is an ML training loop metaphor for your career. `epoch` = year of college. `epoch == 2024` = your internship. `epoch >= 2024` = your current builder phase. `skills.update()` = skills gained. `optimize()` = continuous learning. `backpropagate` = learning from experience.
+> **What is this?** This is an ML training loop metaphor for my career journey. `epoch` = each year of college. `epoch == 2024` = my internship at Intrainz Innovation. `epoch >= 2024` = my current phase as an independent builder. `skills.update()` = new skills acquired. `optimize()` = continuous learning and improvement. `backpropagate` = learning from past experiences to get better.
 
 ---
 
-## Tech Stack — The Feature Engineering Layer
+## Tech Stack
 
 ```
 +-----------------------------------------------------------------+
@@ -235,7 +241,7 @@ for epoch in range(2022, 2027):
 
 ---
 
-## GitHub Stats & Trophies
+## GitHub Stats & Analytics
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=adityayadav161003&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
@@ -251,9 +257,37 @@ for epoch in range(2022, 2027):
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityayadav161003&theme=dark&background=0d1117&border=00d4ff30&ring=00d4ff&fire=f59e0b&currStreakLabel=ffffff&sideLabels=888888&dates=555555" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityayadav161003&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area_color=00D4FF30&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityayadav161003&theme=github_dark" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityayadav161003&theme=github_dark" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityayadav161003&theme=github_dark" />
+</p>
+
 ---
 
-## Certifications — The Validation Set
+## Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityayadav161003/adityayadav161003/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityayadav161003/adityayadav161003/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/adityayadav161003/adityayadav161003/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+> **Note:** The snake animation requires setting up a GitHub Action. See setup instructions below.
+
+---
+
+## Certifications
 
 | Credential | Provider | Year |
 |------------|----------|------|
@@ -264,7 +298,7 @@ for epoch in range(2022, 2027):
 
 ---
 
-## Get In Touch — The Inference API
+## Connect With Me
 
 ```
 POST /contact
@@ -278,6 +312,8 @@ Content-Type: application/json
   "expected_response_time": "< 24 hours"
 }
 ```
+
+> **What is this?** This is a REST API metaphor for contacting me. It shows I think in API terms — structured, predictable, and developer-friendly. Just like a real API, include the right parameters (role + timeline) and you will get a fast response.
 
 | Endpoint | URL | Use Case |
 |----------|-----|----------|
@@ -299,6 +335,6 @@ Content-Type: application/json
 </p>
 
 <p align="center">
-  <sub><strong>2026 Aditya Yadav — Neural Architecture v3.0</strong></sub><br/>
+  <sub><strong>2026 Aditya Yadav — Systems v3.0</strong></sub><br/>
   <sub><em>"Intelligence without evidence is just noise."</em></sub>
 </p>
